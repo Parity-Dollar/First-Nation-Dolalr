@@ -1,2 +1,2 @@
-# First-Nation-Dolalr
+# First-Nation-Dollar
 First Nation Dollar
